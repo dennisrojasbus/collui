@@ -16,7 +16,7 @@
     "@babel/core": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
     "@babel/runtime-corejs2": "^7.0.0",
-    "@storybook/html": "^5.3.13",
+    "@storybook/html": "^7.0.9",
     "@wordpress/babel-preset-default": "^2.1.0",
     "autoprefixer": "^9.7.4",
     "babel-loader": "^8.0.6",
